@@ -1,0 +1,613 @@
+{
+  "videos": {
+    "video/conquest-of-the-skies/seizoen-1/rivalen": {
+      "title": "Rivalen",
+      "description": "David Attenborough zet zijn zoektocht verder naar uitgestorven reptielen, dinosaurussen en vleermuizen. En met verbluffende computeranimaties.",
+      "link": "http://www.canvas.be/video/conquest-of-the-skies/seizoen-1/rivalen",
+      "date": {
+        "date": "2016-01-02 20:33:33.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Conquest of the Skies",
+        "link": "http://www.canvas.be/conquest-of-the-skies"
+      },
+      "image": {
+        "copyright": "Sky 3D",
+        "url": "http://images.vrt.be/orig/2015/12/22/e792914e-a8d9-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 3002,
+      "timeLeft": null,
+      "expirationDate": null,
+      "ageGroup": null
+    },
+    "video/occupied/voorjaar-2016/occupied-2-10": {
+      "title": "Occupied (2/10)",
+      "description": "Tijdens een ceremonie probeert een soldaat de Russische ambassadeur neer te schieten. De Russen zien dit als een oorlogsverklaring en de situatie escaleert. ",
+      "link": "http://www.canvas.be/video/occupied/voorjaar-2016/occupied-2-10",
+      "date": {
+        "date": "2016-01-02 20:25:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Occupied",
+        "link": "http://www.canvas.be/occupied"
+      },
+      "image": {
+        "copyright": "Lumière",
+        "url": "http://images.vrt.be/orig/2015/12/30/3d83c7a2-aedd-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 2715,
+      "timeLeft": "nog 6 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-09 20:24:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/operation-snow-tiger/reeks1/drie-weesjes-in-de-sneeuw": {
+      "title": "Drie weesjes in de sneeuw",
+      "description": "Liz Bonnin trekt naar de bevroren wouden in het verre oosten van Rusland met een team wetenschappers. Ze proberen drie weeswelpen te redden.",
+      "link": "http://www.canvas.be/video/operation-snow-tiger/reeks1/drie-weesjes-in-de-sneeuw",
+      "date": {
+        "date": "2016-01-02 18:05:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Operation Snow Tiger",
+        "link": "http://www.canvas.be/operation-snow-tiger"
+      },
+      "image": {
+        "copyright": "BBC",
+        "url": "http://images.vrt.be/orig/2015/12/22/21f1d987-a8d0-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 2929,
+      "timeLeft": "nog 6 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-09 22:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/de-nomaden/alexandra-in-zuid-amerika/ziek-ga-naar-de-imker": {
+      "title": "Ziek? Ga naar de imker",
+      "description": "Valle de Elqui, Chili. Alexandra maakt kennis met Nelson Correa, niet zomaar 'n Imker. Hij is zowat de dorpswijze van Alcohuaz en hij behandelt ernstig zieken.",
+      "link": "http://www.canvas.be/video/de-nomaden/alexandra-in-zuid-amerika/ziek-ga-naar-de-imker",
+      "date": {
+        "date": "2016-01-02 09:04:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "De Nomaden",
+        "link": "http://www.canvas.be/de-nomaden"
+      },
+      "image": {
+        "copyright": "Alexandra Lens",
+        "url": "http://images.vrt.be/orig/2015/12/18/0387e22c-a5c7-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 113,
+      "timeLeft": null,
+      "expirationDate": null,
+      "ageGroup": null
+    },
+    "video/i-am-johnny-cash": {
+      "title": "I am Johnny Cash",
+      "description": "Een stem uit de duizend, een flinke portie attitude, een levenslang gevecht met de demonen - ladies and gentlemen, here is Johnny Cash!",
+      "link": "http://www.canvas.be/video/i-am-johnny-cash",
+      "date": {
+        "date": "2016-01-01 21:25:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "I am Johnny Cash",
+        "link": "http://www.canvas.be/i-am-johnny-cash"
+      },
+      "image": {
+        "copyright": "Jim Marshall",
+        "url": "http://images.vrt.be/orig/2015/12/29/abbbb2d8-ae36-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 4948,
+      "timeLeft": "nog 5 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-08 22:55:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/joanna-lumley-ark-van-noach/najaar-2015/joanna-lumley-in-the-land-of-the-northern-lights": {
+      "title": "Joanna Lumley in the Land of the Northern Lights",
+      "description": "Joanna Lumley reist naar het uiterste noorden van Noorwegen in de hoop er het noorderlicht te kunnen zien.",
+      "link": "http://www.canvas.be/video/joanna-lumley-ark-van-noach/najaar-2015/joanna-lumley-in-the-land-of-the-northern-lights",
+      "date": {
+        "date": "2016-01-01 18:05:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Joanna Lumley",
+        "link": "http://www.canvas.be/joanna-lumley-ark-van-noach"
+      },
+      "image": {
+        "copyright": "BBC",
+        "url": "http://images.vrt.be/orig/2015/12/22/4b2a4740-a8bf-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 3131,
+      "timeLeft": "nog 5 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-08 22:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/lee-scratch-perry-s-vision-of-paradise": {
+      "title": "Lee Scratch Perry's Vision of Paradise",
+      "description": "Een verbluffende ontmoeting met 'De Profeet' van de rastafari-beweging, een van de iconen van de Black Power-beweging en de grondlegger van reggae.",
+      "link": "http://www.canvas.be/video/lee-scratch-perry-s-vision-of-paradise",
+      "date": {
+        "date": "2015-12-31 23:10:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Lee Scratch Perry's Vision of Paradise",
+        "link": "http://www.canvas.be/lee-scratch-perry-s-vision-of-paradise"
+      },
+      "image": {
+        "copyright": "Fufoo Films",
+        "url": "http://images.vrt.be/orig/2015/10/15/9ab2563b-731e-11e5-820d-00163edf48dd.jpg"
+      },
+      "length": 3218,
+      "timeLeft": "nog +1 maand beschikbaar",
+      "expirationDate": {
+        "date": "2016-02-28 22:58:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/van-peel-overleeft-2015": {
+      "title": "Van Peel overleeft 2015",
+      "description": "De Antwerpse comedian Michael Van Peel houdt een humoristische eindejaarsconferentie in de Arenbergschouwburg in Antwerpen.",
+      "link": "http://www.canvas.be/video/van-peel-overleeft-2015",
+      "date": {
+        "date": "2015-12-31 19:15:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Van Peel overleeft 2015",
+        "link": "http://www.canvas.be/van-peel-overleeft-2015"
+      },
+      "image": {
+        "copyright": "rr",
+        "url": "http://images.vrt.be/orig/2015/12/30/0f07df68-aef6-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 5280,
+      "timeLeft": "nog 28 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-31 19:14:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/zjef-vanuytsel-op": {
+      "title": "Zjef Vanuytsel op Nekka-Nacht 2009",
+      "description": "Hoogtepunten uit Nekka-Nacht 2009 met Zjef Vanuytsel als een van de centrale gasten.",
+      "link": "http://www.canvas.be/video/zjef-vanuytsel-op",
+      "date": {
+        "date": "2015-12-31 15:28:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Zjef Vanuytsel op Nekka-Nacht 2009",
+        "link": "http://www.canvas.be/zjef-vanuytsel-op"
+      },
+      "image": {
+        "copyright": "Patrik Feijen/ Liers Cultuurcentrum",
+        "url": "http://images.vrt.be/orig/2015/12/31/df04732c-afcf-11e5-8c0c-00163edf48dd.png"
+      },
+      "length": 4067,
+      "timeLeft": "nog 4 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-07 16:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/jordskott/seizoen-1/kinderen-van-silverhojd-10-10": {
+      "title": "Kinderen van Silverhöjd (10/10)",
+      "description": "Eva misrekent zich en brengt de levens van de kinderen en zelfs het hele bestaan van Silverhöjd in groot gevaar.",
+      "link": "http://www.canvas.be/video/jordskott/seizoen-1/kinderen-van-silverhojd-10-10",
+      "date": {
+        "date": "2015-12-30 23:40:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Jordskott",
+        "link": "http://www.canvas.be/jordskott"
+      },
+      "image": {
+        "copyright": "rr",
+        "url": "http://images.vrt.be/orig/2015/12/28/a34b2541-ad5e-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 3522,
+      "timeLeft": "nog 22 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-25 22:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/jordskott/seizoen-1/paniek-9-10": {
+      "title": "Paniek (9/10)",
+      "description": "Eva komt steeds meer te weten over wat er met haar vader gebeurd is. Nieuwe explosies in het bos maken het schepsel steeds woester",
+      "link": "http://www.canvas.be/video/jordskott/seizoen-1/paniek-9-10",
+      "date": {
+        "date": "2015-12-30 22:40:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Jordskott",
+        "link": "http://www.canvas.be/jordskott"
+      },
+      "image": {
+        "copyright": "rr",
+        "url": "http://images.vrt.be/orig/2015/12/28/27132d63-ad5d-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 3497,
+      "timeLeft": "nog 22 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-25 22:55:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/last-week-tonight/kerst-2015/woensdag-30-december": {
+      "title": "Woensdag 30 december 2015",
+      "description": "Onder andere het gebruik van drones door de Verenigde Staten en schrijfster Ayn Rand zijn de onderwerpen van vanavond. ",
+      "link": "http://www.canvas.be/video/last-week-tonight/kerst-2015/woensdag-30-december",
+      "date": {
+        "date": "2015-12-30 22:10:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Last Week Tonight with John Oliver",
+        "link": "http://www.canvas.be/last-week-tonight"
+      },
+      "image": {
+        "copyright": "rr",
+        "url": "http://images.vrt.be/orig/2015/12/28/587dac73-ad53-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 1784,
+      "timeLeft": "nog 3 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-06 22:10:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/24-hours-in-police-custody/reeks-1/the-conspiracy-to-murder": {
+      "title": "The Conspiracy to Murder",
+      "description": "Deze bijzondere aflevering begint met de arrestatie van een verdachte in een moordzaak. Vermoedelijk ligt een uit de hand gelopen liefdesdriehoek aan de basis.",
+      "link": "http://www.canvas.be/video/24-hours-in-police-custody/reeks-1/the-conspiracy-to-murder",
+      "date": {
+        "date": "2015-12-30 21:05:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "24 Hours in Police Custody",
+        "link": "http://www.canvas.be/24-hours-in-police-custody"
+      },
+      "image": {
+        "copyright": "ITV GLOBAL ENTERTAINMENT",
+        "url": "http://images.vrt.be/orig/2015/12/29/3fcb8374-ae1b-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 3891,
+      "timeLeft": "nog 3 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-06 22:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/land-of-the-midnight-sun/reeks-1/ijsland-en-groenland": {
+      "title": "IJsland en Groenland",
+      "description": "Halverwege de poolcirkel stuit Alexander op Vikingrestanten. Daarna gaat hij naar Groenland met Deense Special Forces en de Inuit.",
+      "link": "http://www.canvas.be/video/land-of-the-midnight-sun/reeks-1/ijsland-en-groenland",
+      "date": {
+        "date": "2015-12-30 20:15:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Land of the midnight sun",
+        "link": "http://www.canvas.be/land-of-the-midnight-sun"
+      },
+      "image": {
+        "copyright": "ITV |Shiver",
+        "url": "http://images.vrt.be/orig/2015/12/22/191cdcdf-a8bf-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 2691,
+      "timeLeft": "nog 3 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-06 22:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/de-afspraak/najaar-2015/three-days-that-shook-paris": {
+      "title": "Three days that shook Paris",
+      "description": "De aanslag op Charlie Hebdo zorgde meteen voor de grootste klopjacht uit de geschiedenis van Frankrijk. De politie en veiligheidsdiensten doen hun verhaal.",
+      "link": "http://www.canvas.be/video/de-afspraak/najaar-2015/three-days-that-shook-paris",
+      "date": {
+        "date": "2015-12-30 19:40:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "De afspraak",
+        "link": "http://www.canvas.be/de-afspraak"
+      },
+      "image": {
+        "copyright": "rr",
+        "url": "http://images.vrt.be/orig/2015/12/29/eee10523-ae27-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 1989,
+      "timeLeft": "nog +1 maand beschikbaar",
+      "expirationDate": {
+        "date": "2016-06-30 18:40:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/the-shard-hotel-in-the-clouds": {
+      "title": "The Shard - Hotel in the Clouds",
+      "description": "Helemaal bovenaan in de iconische Londense wolkenkrabber The Shard, vind je Londens laatste luxehotel, Shangri-La. ",
+      "link": "http://www.canvas.be/video/the-shard-hotel-in-the-clouds",
+      "date": {
+        "date": "2015-12-30 18:40:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "The Shard - Hotel in the Clouds",
+        "link": "http://www.canvas.be/the-shard-hotel-in-the-clouds"
+      },
+      "image": {
+        "copyright": "ITV",
+        "url": "http://images.vrt.be/orig/2015/12/29/4205dc9f-ae13-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 2752,
+      "timeLeft": "nog 3 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-06 22:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/de-nomaden/kim-in-vietnam/kim-na-vietnam-what-s-next": {
+      "title": "Kim na Vietnam: what's next?",
+      "description": "Hoe Kim haar bestemmingen kiest? \"Je moet ergens beginnen hé!\"",
+      "link": "http://www.canvas.be/video/de-nomaden/kim-in-vietnam/kim-na-vietnam-what-s-next",
+      "date": {
+        "date": "2015-12-29 23:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "De Nomaden",
+        "link": "http://www.canvas.be/de-nomaden"
+      },
+      "image": {
+        "copyright": "VRT",
+        "url": "http://images.vrt.be/orig/2015/12/18/049aee0a-a5c9-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 198,
+      "timeLeft": null,
+      "expirationDate": null,
+      "ageGroup": null
+    },
+    "video/de-nomaden/lisanne-in-zuid-afrika/lisanne-na-zuid-afrika-what-s-next": {
+      "title": "Lisanne na Zuid-Afrika: what's next?",
+      "description": "Het goorste eten in Zuid-Afrika? Ze had graag kippenpoten gegeten, maar nét die dag waren die uitverkocht.",
+      "link": "http://www.canvas.be/video/de-nomaden/lisanne-in-zuid-afrika/lisanne-na-zuid-afrika-what-s-next",
+      "date": {
+        "date": "2015-12-29 23:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "De Nomaden",
+        "link": "http://www.canvas.be/de-nomaden"
+      },
+      "image": {
+        "copyright": "VRT",
+        "url": "http://images.vrt.be/orig/2015/12/18/46715f34-a5ca-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 179,
+      "timeLeft": null,
+      "expirationDate": null,
+      "ageGroup": null
+    },
+    "video/last-week-tonight/kerst-2015/dinsdag-29-december-2015": {
+      "title": "Dinsdag 29 december 2015",
+      "description": "Hoe staat het met de beveiliging van het nucleair wapenarsenaal in de Verenigde Staten? En wat met gekko's in de ruimte? Dat en meer ontdek je bij John Oliver.",
+      "link": "http://www.canvas.be/video/last-week-tonight/kerst-2015/dinsdag-29-december-2015",
+      "date": {
+        "date": "2015-12-29 22:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Last Week Tonight with John Oliver",
+        "link": "http://www.canvas.be/last-week-tonight"
+      },
+      "image": {
+        "copyright": "rr",
+        "url": "http://images.vrt.be/orig/2015/12/28/2371eb9c-ad52-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 1793,
+      "timeLeft": "nog 2 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-05 22:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/villa-politica-jaaroverzicht-2015": {
+      "title": "Villa Politica - jaaroverzicht 2015",
+      "description": "Villa Politica blikt terug op het politieke jaar 2015.\r\n",
+      "link": "http://www.canvas.be/video/villa-politica-jaaroverzicht-2015",
+      "date": {
+        "date": "2015-12-29 21:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Villa Politica - jaaroverzicht 2015",
+        "link": "http://www.canvas.be/villa-politica-jaaroverzicht-2015"
+      },
+      "image": {
+        "copyright": "Joost Joossens",
+        "url": "http://images.vrt.be/orig/2015/12/28/6aa6340b-ad64-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 3377,
+      "timeLeft": null,
+      "expirationDate": null,
+      "ageGroup": null
+    },
+    "video/spul/spul-reeks-1/het-circus-van-list-en-bedrog": {
+      "title": "Het circus van list en bedrog",
+      "description": "Sport is het glanzende uithangbord voor een duister politiek systeem. Maar is het in het vrije Westen zoveel beter? 'Spul' zoekt het antwoord op deze vragen.",
+      "link": "http://www.canvas.be/video/spul/spul-reeks-1/het-circus-van-list-en-bedrog",
+      "date": {
+        "date": "2015-12-29 20:10:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Spul",
+        "link": "http://www.canvas.be/spul"
+      },
+      "image": {
+        "copyright": "VRT/Borgerhoff & Lamberigts",
+        "url": "http://images.vrt.be/orig/2015/12/29/3aebfbce-ae18-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 2847,
+      "timeLeft": "nog 2 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-05 22:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/de-afspraak/najaar-2015/anas-in-corrupt-afrika": {
+      "title": "Anas in corrupt Afrika",
+      "description": "De corruptie in Afrika is moeilijk om te bewijzen. Toch slaagt een journalist in Ghana erin om de corruptie in het land op camera vast te leggen.",
+      "link": "http://www.canvas.be/video/de-afspraak/najaar-2015/anas-in-corrupt-afrika",
+      "date": {
+        "date": "2015-12-29 19:40:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "De afspraak",
+        "link": "http://www.canvas.be/de-afspraak"
+      },
+      "image": {
+        "copyright": "rr",
+        "url": "http://images.vrt.be/orig/2015/12/28/752c476d-ad6b-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 1762,
+      "timeLeft": "nog +1 maand beschikbaar",
+      "expirationDate": {
+        "date": "2016-12-29 19:40:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/wild-france/reeks-1/wild-france-2-2": {
+      "title": "Wild France (2/2)",
+      "description": "In de documentaire reeks 'Wild France' volgen we het levensverhaal van een verscheidenheid aan dieren in Frankrijk. ",
+      "link": "http://www.canvas.be/video/wild-france/reeks-1/wild-france-2-2",
+      "date": {
+        "date": "2015-12-29 18:35:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Wild France",
+        "link": "http://www.canvas.be/wild-france"
+      },
+      "image": {
+        "copyright": "Boréales",
+        "url": "http://images.vrt.be/orig/2015/12/21/08200da5-a801-11e5-8c0c-00163edf48dd.jpg"
+      },
+      "length": 3089,
+      "timeLeft": "nog 2 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-05 22:55:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    },
+    "video/lemmy": {
+      "title": "Lemmy",
+      "description": "Documentaire over de frontman van metalband Motörhead.",
+      "link": "http://www.canvas.be/video/lemmy",
+      "date": {
+        "date": "2015-12-29 12:13:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "category": {
+        "title": "Lemmy",
+        "link": "http://www.canvas.be/lemmy"
+      },
+      "image": {
+        "copyright": "MTV",
+        "url": "http://images.vrt.be/orig/2015/12/29/d0145c97-ae20-11e5-8c0c-00163edf48dd.png"
+      },
+      "length": 6696,
+      "timeLeft": "nog 28 dagen beschikbaar",
+      "expirationDate": {
+        "date": "2016-01-31 22:55:00.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ageGroup": null
+    }
+  },
+  "paging": {
+    "currentPage": 1,
+    "totalItems": 888,
+    "totalPages": 37
+  }
+}

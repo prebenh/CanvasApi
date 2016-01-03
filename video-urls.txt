@@ -1,0 +1,3 @@
+http://vod.stream.vrt.be/mediazone_canvas/_definst_/smil:2015/12/mz-ast-6df61b88-89ad-493a-8e89-1f5aa95d0cce-1/video.smil/playlist.m3u8
+http://vod.stream.vrt.be/mediazone_canvas/_definst_/smil:2015/12/mz-ast-dbb76aeb-d70d-447b-9cfd-143f8db49cbf-1/video.smil/playlist.m3u8
+http://vod.stream.vrt.be/mediazone_canvas/_definst_/smil:2015/09/mz-ast-a9cd93f4-d3b0-4855-a152-a272a7eeb573-1/video.smil/playlist.m3u8
